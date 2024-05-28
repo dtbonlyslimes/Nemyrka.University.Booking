@@ -46,3 +46,8 @@ Week 2:
 - Integrate frontend with backend API for displaying accommodation search results.
 - Design database tables for storing accommodation data.
 - Implement basic error handling for accommodation booking process.
+
+Anti-Lab 2
+Hrabar Danylo
+my repository: https://github.com/dtbonlyslimes/Hrabar.University.Uber
+my pull request: https://github.com/dtbonlyslimes/Nemyrka.University.Booking/pull/1
